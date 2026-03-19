@@ -70,7 +70,7 @@ looks like a attacker trying different combinations of password with username ad
 
 ![img](15.png)
 
-seems like the attacker sussfully loged in ad admin with password Password123
+seems like the attacker sussfully loged in as admin with password Password123
 
 ![img](16.png)
 
