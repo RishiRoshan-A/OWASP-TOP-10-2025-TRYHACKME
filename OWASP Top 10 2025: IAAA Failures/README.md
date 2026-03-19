@@ -79,7 +79,9 @@ seems like the attacker sussfully loged in as admin with password Password123
 This lab demonstrate a basic idea of :
 
 --> Broken Access Control (A:01)
+
 --> Authentication Failures (A:07)
+
 --> security Logging or Monitoring Failures (A:09)
 
 With an pratical example 
