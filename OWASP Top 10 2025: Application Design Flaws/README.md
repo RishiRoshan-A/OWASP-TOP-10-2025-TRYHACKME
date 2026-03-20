@@ -129,7 +129,7 @@ no features seems to be working , so lets try some common api endpoints
 
 Example:
 
-1) api/users/
+1)api/users/
 
 2)api/messages/
 
