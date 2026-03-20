@@ -153,7 +153,7 @@ We successfully found the flag
 
 # CONCLUSION:
 
-This lab gives a basic overview and Experience of owasp top 10 2025 vulnerabilities which affects security design :
+This lab gives a basic overview and pratical Experience of owasp top 10 2025 vulnerabilities which affects security design :
 
  1)AS02 Security Misconfigurations
  
